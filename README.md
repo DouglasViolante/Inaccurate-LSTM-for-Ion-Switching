@@ -1,4 +1,4 @@
-# LSTM for Ion Switching Open Channels Counting
+# Inaccurate LSTM Architecture for Ion Switching Open Channels Counting
 
 
 A python low accuracy try on a Kaggle competition with dataset provided by University of London, with the main objective of counting the number of channels open at a given time point in a data backed by a biological context.
