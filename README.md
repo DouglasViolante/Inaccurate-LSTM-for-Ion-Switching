@@ -11,4 +11,6 @@ The Competition page, details and data can be found [here](https://www.kaggle.co
 
 As seen in the above image, the developed LSTM architecture was innefective in counting the number of channels that were open in a given time point, because the accuracy reached in comparison with validation-data was **less than 25%**. 
 
+With the personal interest of understand LSTMs and GRUs.
+
 
