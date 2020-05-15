@@ -1,7 +1,7 @@
 # Inaccurate LSTM Architecture for Ion Switching Open Channels Counting
 
 
-A python low accuracy try on a Kaggle competition with dataset provided by University of London, with the main objective of counting the number of channels open at a given time point in a data backed by a biological context.
+A python low accuracy try on a Kaggle competition with dataset provided by *University of London*, with the main objective of counting the number of channels open at a given time point in a data backed by a biological context.
 
 The data is a time-series, where the Y-axis is the Current (pA) and the X-axis is the Time (seconds).
 
